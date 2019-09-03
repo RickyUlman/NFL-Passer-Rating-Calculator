@@ -1,4 +1,3 @@
-# Program:          ch. 2, ex. 2 (2-30)
 # Author:           Richard N Barnes iii
 # Purpose:          Simple program that calculates passer rating of a player
 # Date:             11/04/2018
